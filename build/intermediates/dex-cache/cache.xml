@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/anelelizabethcervantes/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/anelelizabethcervantes/Documents/1Project/Git/Parcelable2/MinimaOkHttp/app/build/intermediates/pre-dexed/debug/okio-1.11.0_d57c594d1688270c8271694e9e626d5833f7678b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anelelizabethcervantes/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/anelelizabethcervantes/Documents/1Project/Git/Parcelable2/MinimaOkHttp/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a16a9665e0d02e32267e6564465354e4223a8dc3.jar" />
+    </item>
+
+</items>
